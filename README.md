@@ -1,2 +1,2 @@
-# javascript_study
+# javascript study
 study repository  with javascript projects. 🎨
